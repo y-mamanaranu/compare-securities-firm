@@ -438,7 +438,7 @@
             "sbi": "○",
             "area": "アジア（除く日本）",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "02805",
@@ -456,9 +456,9 @@
             "market": "メインボード",
             "fee": 0.45,
             "sbi": "○",
-            "area": "NaN",
+            "area": "新興国",
             "rakuten": "×",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03043",
@@ -466,9 +466,9 @@
             "market": "メインボード",
             "fee": 0.25,
             "sbi": "○",
-            "area": "NaN",
+            "area": "グローバル",
             "rakuten": "×",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03085",
@@ -1428,7 +1428,7 @@
             "sbi": "○",
             "area": "アメリカ",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "069500",
@@ -1808,7 +1808,7 @@
             "sbi": "○",
             "area": "香港",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "02801",
@@ -1818,7 +1818,7 @@
             "sbi": "○",
             "area": "中国",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "02823",
@@ -1828,7 +1828,7 @@
             "sbi": "○",
             "area": "中国",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "02827",
@@ -1838,7 +1838,7 @@
             "sbi": "○",
             "area": "中国",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "02828",
@@ -1848,7 +1848,7 @@
             "sbi": "○",
             "area": "中国",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "02833",
@@ -1858,7 +1858,7 @@
             "sbi": "○",
             "area": "香港",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "02836",
@@ -1868,7 +1868,7 @@
             "sbi": "○",
             "area": "インド",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "02838",
@@ -1878,7 +1878,7 @@
             "sbi": "○",
             "area": "中国",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "02846",
@@ -1888,7 +1888,7 @@
             "sbi": "○",
             "area": "中国",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "02848",
@@ -1898,7 +1898,7 @@
             "sbi": "○",
             "area": "韓国",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03007",
@@ -1908,7 +1908,7 @@
             "sbi": "○",
             "area": "中国",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03015",
@@ -1918,7 +1918,7 @@
             "sbi": "○",
             "area": "インド",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03040",
@@ -1928,7 +1928,7 @@
             "sbi": "○",
             "area": "中国",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03082",
@@ -1936,9 +1936,9 @@
             "market": "メインボード",
             "fee": 0.5,
             "sbi": "○",
-            "area": "NaN",
+            "area": "新興国",
             "rakuten": "×",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03027",
@@ -1946,9 +1946,9 @@
             "market": "メインボード",
             "fee": 0.65,
             "sbi": "○",
-            "area": "NaN",
+            "area": "新興国",
             "rakuten": "×",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03036",
@@ -1958,7 +1958,7 @@
             "sbi": "○",
             "area": "台湾",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03048",
@@ -1966,9 +1966,9 @@
             "market": "メインボード",
             "fee": 0.65,
             "sbi": "○",
-            "area": "NaN",
+            "area": "新興国",
             "rakuten": "×",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03049",
@@ -1976,9 +1976,9 @@
             "market": "メインボード",
             "fee": 0.5,
             "sbi": "○",
-            "area": "NaN",
+            "area": "中国",
             "rakuten": "×",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03087",
@@ -1988,7 +1988,7 @@
             "sbi": "○",
             "area": "ベトナム",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03092",
@@ -1996,9 +1996,9 @@
             "market": "メインボード",
             "fee": 0.5,
             "sbi": "○",
-            "area": "NaN",
+            "area": "新興国",
             "rakuten": "×",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03099",
@@ -2006,9 +2006,9 @@
             "market": "メインボード",
             "fee": 0.65,
             "sbi": "○",
-            "area": "NaN",
+            "area": "新興国",
             "rakuten": "×",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03110",
@@ -2018,7 +2018,7 @@
             "sbi": "○",
             "area": "香港",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "03127",
@@ -2028,7 +2028,7 @@
             "sbi": "○",
             "area": "中国",
             "rakuten": "○",
-            "monex": "×"
+            "monex": "○"
         },
         {
             "ticker": "ABFB",
@@ -4181,282 +4181,12 @@
             "monex": "○"
         },
         {
-            "ticker": 1426,
+            "ticker": "01426",
             "name": "スプリングリートSpring REIT",
             "market": "香港",
             "fee": "NaN",
             "sbi": "×",
             "area": "アジア（REIT）",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2800,
-            "name": "トラッカー・ファンド・オブ・ホンコンTracker Fund of Hong Kong",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2801,
-            "name": "iシェアーズ・コア MSCI チャイナETFiShares Core MSCI China ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2802,
-            "name": "iシェアーズ MSCI エマージング・アジアETFiShares MSCI Emerging Asia ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2823,
-            "name": "iシェアーズ FTSE 中国A50 ETFiShares FTSE ChinaA50 ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2827,
-            "name": "W.I.S.E - CSI 300 チャイナ・トラッカーW.I.S.E - CSI 300 China Tracker",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2828,
-            "name": "ハンセンH株指数ETFHang Seng H-Share Index ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2833,
-            "name": "ハンセン指数ETFHang Seng Index ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2836,
-            "name": "iシェアーズ・コア S&P BSE SENSEX インディアETFiShares Core S&P BSE SENSEX India ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2838,
-            "name": "ハンセン FTSE/Xinhua 中国50指数ETFHang Seng FTSE/Xinhua China 50 Index ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2846,
-            "name": "iシェアーズ・コア CSI 300 ETFiShares Core CSI 300 ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 2848,
-            "name": "db x-トラッカーズ-MSCI韓国TRNインデックスETFdb x-trackers MSCI KOREA INDEX UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3007,
-            "name": "db x-トラッカーズ-FTSE 中国50ETFdb x-trackers FTSE CHINA 50 UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3015,
-            "name": "db x-トラッカーズ-S&P CNX ニフティETFdb x-trackers CNX NIFTY UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3019,
-            "name": "db x-トラッカーズ-MSCI ワールド TRNインデックスETFdb x-trackers MSCI WORLD INDEX UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3020,
-            "name": "db x-トラッカーズ-MSCI米国TRNインデックスETFdb x-trackers MSCI USA INDEX UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "アメリカ",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3027,
-            "name": "db x-トラッカーズ-MSCI ロシア・キャップド インデックスETFdb x-trackers MSCI RUSSIA CAPPED INDEX UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3036,
-            "name": "db x-トラッカーズ-MSCI台湾TRNインデックスETFdb x-trackers MSCI TAIWAN INDEX UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3040,
-            "name": "グローバル X MSCI 中国 ETFGlobal X MSCI China ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3043,
-            "name": "db x-トラッカーズ MSCIパシフィック（除く日本）TRNインデックスETFdb x-trackers MSCI PACIFIC EX JAPAN INDEX UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "グローバル",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3048,
-            "name": "db x-トラッカーズ-MSCI ブラジル TRNインデックスETFdb x-trackers MSCI BRAZIL INDEX UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3049,
-            "name": "db x-トラッカーズ CSI300中国A株インデックスETFdb x-trackers CSI300 UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3082,
-            "name": "db x-トラッカーズ MSCIマレーシアTRNインデックスETFdb x-trackers MSCI MALAYSIA INDEX UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3087,
-            "name": "db x-トラッカーズ-FTSEベトナムETFdb x-trackers FTSE VIETNAM UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3092,
-            "name": "db x-トラッカーズ MSCIタイTRNインデックスETFdb x-trackers MSCI THAILAND INDEX UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3099,
-            "name": "db x-トラッカーズ MSCIインドネシアTRNインデックスETFdb x-trackers MSCI INDONESIA INDEX UCITS ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "新興国",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3110,
-            "name": "グローバル X ハンセン高配当利回り ETFGlobal X Hang Seng High Dividend Yield ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "香港",
-            "rakuten": "×",
-            "monex": "○"
-        },
-        {
-            "ticker": 3127,
-            "name": "グローバル X CSI 300 ETFGlobal X CSI 300 ETF",
-            "market": "香港",
-            "fee": "NaN",
-            "sbi": "×",
-            "area": "中国",
             "rakuten": "×",
             "monex": "○"
         }
