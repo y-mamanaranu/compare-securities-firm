@@ -4136,7 +4136,7 @@
             "market": "Cboe",
             "fee": "0.11％",
             "sbi": "×",
-            "area": "JPモルガン・アセット・マネジメント",
+            "area": "米国",
             "rakuten": "×",
             "monex": "○"
         },
@@ -4146,7 +4146,7 @@
             "market": "Cboe",
             "fee": "0.17％",
             "sbi": "×",
-            "area": "ブラックロック",
+            "area": "米国",
             "rakuten": "×",
             "monex": "○"
         },
@@ -4156,7 +4156,7 @@
             "market": "Cboe",
             "fee": "0.85％",
             "sbi": "×",
-            "area": "ファースト・トラスト",
+            "area": "米国",
             "rakuten": "×",
             "monex": "○"
         },
@@ -4166,7 +4166,7 @@
             "market": "Cboe",
             "fee": "0.85％",
             "sbi": "×",
-            "area": "ファースト・トラスト",
+            "area": "米国",
             "rakuten": "×",
             "monex": "○"
         },
@@ -4176,7 +4176,7 @@
             "market": "Cboe",
             "fee": "0.18％",
             "sbi": "×",
-            "area": "JPモルガン・アセット・マネジメント",
+            "area": "米国",
             "rakuten": "×",
             "monex": "○"
         },
