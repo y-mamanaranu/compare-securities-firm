@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "compare-securities-firm"
-version = "0.1.0"
+version = "1.0.0"
 description = ""
 authors = ["Yoiduki <90896806+y-muen@users.noreply.github.com>"]
 
