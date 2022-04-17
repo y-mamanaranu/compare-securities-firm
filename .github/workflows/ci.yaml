@@ -23,7 +23,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install poetry pycodestyle pytest
-          poetry install --no-interaction
+          poetry install --no-dev --no-interaction
       - name: Lint with pycodestyle
         run: pycodestyle . --count --max-line-length=127 --statistics --show-source
       - name: Test with pytest
